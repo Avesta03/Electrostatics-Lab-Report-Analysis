@@ -1,5 +1,7 @@
 # PHYS1101 (DISCOVERY SKILLS IN PHYSICS) LAB REPORT - ELECTROSTATICS [Coulomb's Law]
 
+![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+
 This is my undergraduate summative lab report for my year 1 undergraduate physics degree at Durham University.
 
 ## The Code
@@ -26,4 +28,4 @@ I am one of the few, if not the only, year 1 student this year, to use Python. M
 
 
 
-* [More information can be found here][https://www.durham.ac.uk/departments/academic/physics/labs/skills/graphical-excellence/]
+* [More information can be found here](https://www.durham.ac.uk/departments/academic/physics/labs/skills/graphical-excellence/)
